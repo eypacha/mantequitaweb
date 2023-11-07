@@ -233,7 +233,7 @@ if ( isset($_GET['lang']) ){
 					<h2><?= __('media',$lang) ?></h2>
 				</div>
 				<div id="gallery" style="display:none;">
-					<?php for($i = 0 ; $i < 34 ; $i++){ ?>
+					<?php for($i = 0 ; $i < 35 ; $i++){ ?>
 						<img alt="" src="images/webp/<?= ($i+1) ?>.webp" data-image="images/webp/<?= ($i+1) ?>.webp"/>
 					<?php } ?>
 				</div>
