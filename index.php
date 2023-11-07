@@ -132,7 +132,7 @@ if ( isset($_GET['lang']) ){
 							<div class="rope top-right"></div>
 							<div class="rope bottom-left"></div>
 							<div class="rope bottom-right"></div>
-							<img src="images/webp/2.webp" class="img-fluid" alt="">
+							<img src="images/webp/galumphingImg.webp" class="img-fluid" alt="">
 						</div>
 					</div>
 				</div>
@@ -174,7 +174,7 @@ if ( isset($_GET['lang']) ){
 							<div class="rope top-right"></div>
 							<div class="rope bottom-left"></div>
 							<div class="rope bottom-right"></div>
-							<img src="images/webp/30.webp" class="img-fluid" alt="">
+							<img src="images/webp/bienvenidosAlTrenImg.webp" class="img-fluid" alt="">
 						</div>
 					</div>
 					<div class="col-lg-2 d-none d-lg-flex justify-content-start align-items-end" data-aos="fade-left" data-aos-delay="300">
