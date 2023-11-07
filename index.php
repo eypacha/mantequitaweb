@@ -374,12 +374,6 @@ if ( isset($_GET['lang']) ){
 				<div class="row justify-content-center my-5">
 					<div class="card" data-aos="zoom-in">
 						<div class="card-body">
-							<a href="mailto:mantecaldente@gmail.com" target="_blank" class="mx-2">
-								<i class="fas fa-envelope fa-2x"></i>
-							</a>
-							<a href="https://api.whatsapp.com/send?phone=5491158826194" target="_blank">
-								<i class="fab fa-whatsapp fa-2x"></i>
-							</a>
 							<a href="https://instagram.com/mantecaldente" target="_blank" class="mx-2">
 								<i class="fab fa-instagram fa-2x"></i>
 							</a>
